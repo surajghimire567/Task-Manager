@@ -1,0 +1,29 @@
+S:\ai\.git\Task Manager\TASK MANAGER\bin\Debug\net10.0\appsettings.Development.json
+S:\ai\.git\Task Manager\TASK MANAGER\bin\Debug\net10.0\appsettings.json
+S:\ai\.git\Task Manager\TASK MANAGER\bin\Debug\net10.0\TASK MANAGER.staticwebassets.endpoints.json
+S:\ai\.git\Task Manager\TASK MANAGER\bin\Debug\net10.0\TASK MANAGER.exe
+S:\ai\.git\Task Manager\TASK MANAGER\bin\Debug\net10.0\TASK MANAGER.deps.json
+S:\ai\.git\Task Manager\TASK MANAGER\bin\Debug\net10.0\TASK MANAGER.runtimeconfig.json
+S:\ai\.git\Task Manager\TASK MANAGER\bin\Debug\net10.0\TASK MANAGER.dll
+S:\ai\.git\Task Manager\TASK MANAGER\bin\Debug\net10.0\TASK MANAGER.pdb
+S:\ai\.git\Task Manager\TASK MANAGER\obj\Debug\net10.0\rpswa.dswa.cache.json
+S:\ai\.git\Task Manager\TASK MANAGER\obj\Debug\net10.0\TASK MANAGER.GeneratedMSBuildEditorConfig.editorconfig
+S:\ai\.git\Task Manager\TASK MANAGER\obj\Debug\net10.0\TASK MANAGER.AssemblyInfoInputs.cache
+S:\ai\.git\Task Manager\TASK MANAGER\obj\Debug\net10.0\TASK MANAGER.AssemblyInfo.cs
+S:\ai\.git\Task Manager\TASK MANAGER\obj\Debug\net10.0\TASK MANAGER.csproj.CoreCompileInputs.cache
+S:\ai\.git\Task Manager\TASK MANAGER\obj\Debug\net10.0\TASK MANAGER.MvcApplicationPartsAssemblyInfo.cache
+S:\ai\.git\Task Manager\TASK MANAGER\obj\Debug\net10.0\TASK MANAGER.sourcelink.json
+S:\ai\.git\Task Manager\TASK MANAGER\obj\Debug\net10.0\rjimswa.dswa.cache.json
+S:\ai\.git\Task Manager\TASK MANAGER\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+S:\ai\.git\Task Manager\TASK MANAGER\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+S:\ai\.git\Task Manager\TASK MANAGER\obj\Debug\net10.0\scopedcss\bundle\TASK MANAGER.styles.css
+S:\ai\.git\Task Manager\TASK MANAGER\obj\Debug\net10.0\staticwebassets.build.json
+S:\ai\.git\Task Manager\TASK MANAGER\obj\Debug\net10.0\staticwebassets.build.json.cache
+S:\ai\.git\Task Manager\TASK MANAGER\obj\Debug\net10.0\staticwebassets.development.json
+S:\ai\.git\Task Manager\TASK MANAGER\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+S:\ai\.git\Task Manager\TASK MANAGER\obj\Debug\net10.0\swae.build.ex.cache
+S:\ai\.git\Task Manager\TASK MANAGER\obj\Debug\net10.0\TASK MANAGER.dll
+S:\ai\.git\Task Manager\TASK MANAGER\obj\Debug\net10.0\refint\TASK MANAGER.dll
+S:\ai\.git\Task Manager\TASK MANAGER\obj\Debug\net10.0\TASK MANAGER.pdb
+S:\ai\.git\Task Manager\TASK MANAGER\obj\Debug\net10.0\TASK MANAGER.genruntimeconfig.cache
+S:\ai\.git\Task Manager\TASK MANAGER\obj\Debug\net10.0\ref\TASK MANAGER.dll
